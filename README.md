@@ -29,7 +29,7 @@ Data preprocessing was performed in SQL Server to improve data quality and ensur
 - Average Days of Hospital Stay
 
 ### Visualizations
-<img width="1143" height="653" alt="Screenshot 2026-06-05 003044" src="https://github.com/user-attachments/assets/c5f0072d-f1fc-4f2d-a10e-4f95d3ab4f3c" />
+<img width="750" height="420" alt="Screenshot 2026-06-05 003044" src="https://github.com/user-attachments/assets/c5f0072d-f1fc-4f2d-a10e-4f95d3ab4f3c" />
 
 #### Patient Follow-ups
 Tracks monthly patient follow-up trends.
